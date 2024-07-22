@@ -15,54 +15,6 @@
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\data\\fielddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\data\\fielddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\scene\\scenefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\scene\\scenefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\scene\\sceneplayerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\scene\\sceneplayerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\scene\\scenelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\scene\\scenelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\data\\mobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\data\\mobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\scene\\sceneshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\scene\\sceneshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\textrpg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:textrpg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -182,6 +134,54 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\SceneShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneLobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\SceneLobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\ItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\ItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\ScenePlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\ScenePlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\FieldData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\FieldData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\SceneField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -202,8 +202,7 @@
               "ToolTip": "D:\\CsStd\\study\\study.csproj",
               "RelativeToolTip": "study.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T05:49:45.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T05:49:45.891Z"
             },
             {
               "$type": "Document",
@@ -213,14 +212,14 @@
               "RelativeDocumentMoniker": "Practice\\Prac_Class.cs",
               "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_Class.cs",
               "RelativeToolTip": "Practice\\Prac_Class.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAA+wEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T01:59:02.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "Function.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Function.cs",
               "RelativeDocumentMoniker": "Practice\\Function.cs",
@@ -232,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d4d7258f53cd\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d4d7258f53cd\\Program.cs",
@@ -242,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d4a0258e80be\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d4a0258e80be\\Program.cs",
@@ -252,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d46d258db792\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d46d258db792\\Program.cs",
@@ -262,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 38,
               "Title": "SceneShop.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\SceneShop.cs",
               "RelativeDocumentMoniker": "textRPG\\Scene\\SceneShop.cs",
@@ -274,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 39,
               "Title": "SceneLobby.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\SceneLobby.cs",
               "RelativeDocumentMoniker": "textRPG\\Scene\\SceneLobby.cs",
@@ -286,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 40,
               "Title": "MobData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\MobData.cs",
               "RelativeDocumentMoniker": "textRPG\\Data\\MobData.cs",
@@ -298,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
               "Title": "Prac_Selection.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_Selection.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_Selection.cs",
@@ -310,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 41,
               "Title": "ItemData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\ItemData.cs",
               "RelativeDocumentMoniker": "textRPG\\Data\\ItemData.cs",
@@ -322,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 42,
               "Title": "Battle.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Battle.cs",
               "RelativeDocumentMoniker": "textRPG\\Battle.cs",
@@ -330,12 +329,11 @@
               "RelativeToolTip": "textRPG\\Battle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T06:11:33.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T06:11:33.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 43,
               "Title": "ScenePlayerInfo.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\ScenePlayerInfo.cs",
               "RelativeDocumentMoniker": "textRPG\\Scene\\ScenePlayerInfo.cs",
@@ -347,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 44,
               "Title": "Main.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Main.cs",
               "RelativeDocumentMoniker": "textRPG\\Main.cs",
@@ -359,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 45,
               "Title": "FieldData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\FieldData.cs",
               "RelativeDocumentMoniker": "textRPG\\Data\\FieldData.cs",
@@ -367,12 +365,11 @@
               "RelativeToolTip": "textRPG\\Data\\FieldData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:21:07.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T11:21:07.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 46,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\PlayerData.cs",
               "RelativeDocumentMoniker": "textRPG\\Data\\PlayerData.cs",
@@ -384,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 14,
               "Title": "Enum.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Enum.cs",
               "RelativeDocumentMoniker": "Lecture\\Enum.cs",
@@ -396,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 47,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\Inventory.cs",
               "RelativeDocumentMoniker": "textRPG\\Data\\Inventory.cs",
@@ -408,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 48,
               "Title": "GameObject.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\GameObject.cs",
               "RelativeDocumentMoniker": "textRPG\\GameObject.cs",
@@ -420,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 49,
               "Title": "SceneField.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\SceneField.cs",
               "RelativeDocumentMoniker": "textRPG\\Scene\\SceneField.cs",
@@ -440,12 +437,11 @@
               "RelativeToolTip": "Lecture\\Structure.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T10:57:17.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T10:57:17.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d5362590c84d\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d5362590c84d\\Program.cs",
@@ -455,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d54925911208\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d54925911208\\Program.cs",
@@ -465,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f41157c7a1\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f41157c7a1\\Program.cs",
@@ -475,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f41157ca8f\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f41157ca8f\\Program.cs",
@@ -485,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f6015841d2\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f6015841d2\\Program.cs",
@@ -495,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 37,
               "Title": "MobData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\MobData.cs",
               "RelativeDocumentMoniker": "textRPG\\MobData.cs",
@@ -507,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 13,
               "Title": "iteration.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\iteration.cs",
               "RelativeDocumentMoniker": "Lecture\\iteration.cs",
@@ -519,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 15,
               "Title": "Array.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Array.cs",
               "RelativeDocumentMoniker": "Lecture\\Array.cs",
@@ -531,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 10,
               "Title": "Prac_structure.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_structure.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_structure.cs",
@@ -543,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6694758c186337fa\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6694758c186337fa\\Program.cs",
@@ -553,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.669475a41863926e\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.669475a41863926e\\Program.cs",
@@ -563,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6695c6661d8700bc\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6695c6661d8700bc\\Program.cs",
@@ -573,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6695c67c1d87563f\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6695c67c1d87563f\\Program.cs",
@@ -583,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8eec1567e96\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8eec1567e96\\Program.cs",
@@ -593,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8eb21559a12\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8eb21559a12\\Program.cs",
@@ -603,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "Prac_switch.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_switch.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_switch.cs",
@@ -615,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8e901551717\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8e901551717\\Program.cs",
@@ -625,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8e7a154c05c\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8e7a154c05c\\Program.cs",
@@ -635,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8e2a15387ad\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8e2a15387ad\\Program.cs",
@@ -645,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 23,
               "Title": "Selection.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Selection.cs",
               "RelativeDocumentMoniker": "Lecture\\Selection.cs",
@@ -657,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 12,
               "Title": "Function.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Function.cs",
               "RelativeDocumentMoniker": "Lecture\\Function.cs",
@@ -669,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 24,
               "Title": "Operator.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Operator.cs",
               "RelativeDocumentMoniker": "Lecture\\Operator.cs",
@@ -681,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 20,
               "Title": "Prac_enum.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_enum.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_enum.cs",
@@ -693,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 22,
               "Title": "Prac_array.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_array.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_array.cs",
@@ -705,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 36,
               "Title": "Prac_enum.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Prac_enum.cs",
               "RelativeDocumentMoniker": "Prac_enum.cs",
@@ -717,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 21,
               "Title": "Prac_baseball.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_baseball.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_baseball.cs",
@@ -729,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 25,
               "Title": "Prac_Operator.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_Operator.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_Operator.cs",
@@ -741,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f7e158b6c3\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8f7e158b6c3\\Program.cs",
@@ -750,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.669076218c5961e\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.669076218c5961e\\Program.cs",
