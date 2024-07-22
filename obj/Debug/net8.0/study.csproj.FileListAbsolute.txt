@@ -1,0 +1,14 @@
+D:\CsStd\study\bin\Debug\net8.0\study.exe
+D:\CsStd\study\bin\Debug\net8.0\study.deps.json
+D:\CsStd\study\bin\Debug\net8.0\study.runtimeconfig.json
+D:\CsStd\study\bin\Debug\net8.0\study.dll
+D:\CsStd\study\bin\Debug\net8.0\study.pdb
+D:\CsStd\study\obj\Debug\net8.0\study.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsStd\study\obj\Debug\net8.0\study.AssemblyInfoInputs.cache
+D:\CsStd\study\obj\Debug\net8.0\study.AssemblyInfo.cs
+D:\CsStd\study\obj\Debug\net8.0\study.csproj.CoreCompileInputs.cache
+D:\CsStd\study\obj\Debug\net8.0\study.dll
+D:\CsStd\study\obj\Debug\net8.0\refint\study.dll
+D:\CsStd\study\obj\Debug\net8.0\study.pdb
+D:\CsStd\study\obj\Debug\net8.0\study.genruntimeconfig.cache
+D:\CsStd\study\obj\Debug\net8.0\ref\study.dll

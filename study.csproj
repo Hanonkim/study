@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="textRPG\**" />
+    <EmbeddedResource Remove="textRPG\**" />
+    <None Remove="textRPG\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="hellowWorld.cs" />
+    <Compile Remove="Lecture\Array.cs" />
+    <Compile Remove="Lecture\Enum.cs" />
+    <Compile Remove="Lecture\Function.cs" />
+    <Compile Remove="Lecture\iteration.cs" />
+    <Compile Remove="Lecture\Operator.cs" />
+    <Compile Remove="Lecture\Selection.cs" />
+    <Compile Remove="Lecture\Structure.cs" />
+    <Compile Remove="Operator.cs" />
+    <Compile Remove="Practice\Function.cs" />
+    <Compile Remove="Practice\Prac_array.cs" />
+    <Compile Remove="Practice\Prac_baseball.cs" />
+    <Compile Remove="Practice\Prac_enum.cs" />
+    <Compile Remove="Practice\Prac_Operator.cs" />
+    <Compile Remove="Practice\Prac_Selection.cs" />
+    <Compile Remove="Practice\Prac_structure.cs" />
+    <Compile Remove="Practice\Prac_switch.cs" />
+    <Compile Remove="Prac_enum.cs" />
+    <Compile Remove="variable.cs" />
+    <Compile Remove="World.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Lecture\Array.cs" />
+    <None Include="Lecture\Enum.cs" />
+    <None Include="Lecture\Function.cs" />
+    <None Include="Lecture\iteration.cs" />
+    <None Include="Lecture\Operator.cs" />
+    <None Include="Lecture\Selection.cs" />
+    <None Include="Lecture\Structure.cs" />
+    <None Include="Practice\Function.cs" />
+    <None Include="Practice\Prac_array.cs" />
+    <None Include="Practice\Prac_baseball.cs" />
+    <None Include="Practice\Prac_enum.cs" />
+    <None Include="Practice\Prac_Operator.cs" />
+    <None Include="Practice\Prac_Selection.cs" />
+    <None Include="Practice\Prac_structure.cs" />
+    <None Include="Practice\Prac_switch.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+</Project>
