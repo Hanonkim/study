@@ -9,8 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NewFolder\**" />
     <Compile Remove="textRPG\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
     <EmbeddedResource Remove="textRPG\**" />
+    <None Remove="NewFolder\**" />
     <None Remove="textRPG\**" />
   </ItemGroup>
 
@@ -27,6 +30,7 @@
     <Compile Remove="Practice\Function.cs" />
     <Compile Remove="Practice\Prac_array.cs" />
     <Compile Remove="Practice\Prac_baseball.cs" />
+    <Compile Remove="Practice\Prac_Class.cs" />
     <Compile Remove="Practice\Prac_enum.cs" />
     <Compile Remove="Practice\Prac_Operator.cs" />
     <Compile Remove="Practice\Prac_Selection.cs" />
@@ -48,15 +52,12 @@
     <None Include="Practice\Function.cs" />
     <None Include="Practice\Prac_array.cs" />
     <None Include="Practice\Prac_baseball.cs" />
+    <None Include="Practice\Prac_Class.cs" />
     <None Include="Practice\Prac_enum.cs" />
     <None Include="Practice\Prac_Operator.cs" />
     <None Include="Practice\Prac_Selection.cs" />
     <None Include="Practice\Prac_structure.cs" />
     <None Include="Practice\Prac_switch.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>

@@ -12,3 +12,4 @@ D:\CsStd\study\obj\Debug\net8.0\refint\study.dll
 D:\CsStd\study\obj\Debug\net8.0\study.pdb
 D:\CsStd\study\obj\Debug\net8.0\study.genruntimeconfig.cache
 D:\CsStd\study\obj\Debug\net8.0\ref\study.dll
+D:\CsStd\study\obj\Debug\net8.0\study.sourcelink.json
