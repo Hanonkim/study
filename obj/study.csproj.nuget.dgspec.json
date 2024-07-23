@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CsStd\\study\\study.csproj": {}
+    "D:\\CsStd\\studyBygit\\study\\study.csproj": {}
   },
   "projects": {
-    "D:\\CsStd\\study\\study.csproj": {
+    "D:\\CsStd\\studyBygit\\study\\study.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CsStd\\study\\study.csproj",
+        "projectUniqueName": "D:\\CsStd\\studyBygit\\study\\study.csproj",
         "projectName": "study",
-        "projectPath": "D:\\CsStd\\study\\study.csproj",
+        "projectPath": "D:\\CsStd\\studyBygit\\study\\study.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\CsStd\\study\\obj\\",
+        "outputPath": "D:\\CsStd\\studyBygit\\study\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

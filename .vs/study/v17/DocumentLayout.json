@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CsStd\\study\\",
+  "WorkspaceRootPath": "D:\\CsStd\\studyBygit\\study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\projects\\calc\\clacmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\projects\\calc\\clacmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:projects\\calc\\clacmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\study.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\study.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:study.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\lecture\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\lecture\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,31 +38,31 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6697d46d258db792\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\lecture\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\lecture\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\lecture\\iteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\lecture\\iteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\iteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\lecture\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\lecture\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\lecture\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\lecture\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -78,27 +78,27 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.6694758c186337fa\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_baseball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_baseball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_baseball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\lecture\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\lecture\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\lecture\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\lecture\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:lecture\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\study\\practice\\prac_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|d:\\csstd\\studybygit\\study\\practice\\prac_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A96F43B4-FCD3-4DFD-BDC2-6AC4C50EE5DE}|study.csproj|solutionrelative:practice\\prac_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -132,60 +132,46 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\BNZ.668e8e2a15387ad\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\Prac_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Prac_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\Prac_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\SceneShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneShop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneLobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\SceneLobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneLobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\MobData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\ItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\ItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\ItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\ScenePlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\ScenePlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\ScenePlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\FieldData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\FieldData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\FieldData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Data\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Data\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:textRPG\\Scene\\SceneField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CsStd\\study\\textRPG\\Scene\\SceneField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -201,9 +187,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClacMain.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Projects\\Calc\\ClacMain.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Projects\\Calc\\ClacMain.cs",
               "RelativeDocumentMoniker": "Projects\\Calc\\ClacMain.cs",
-              "ToolTip": "D:\\CsStd\\study\\Projects\\Calc\\ClacMain.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Projects\\Calc\\ClacMain.cs",
               "RelativeToolTip": "Projects\\Calc\\ClacMain.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAqwCgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,9 +200,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "study",
-              "DocumentMoniker": "D:\\CsStd\\study\\study.csproj",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\study.csproj",
               "RelativeDocumentMoniker": "study.csproj",
-              "ToolTip": "D:\\CsStd\\study\\study.csproj",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\study.csproj",
               "RelativeToolTip": "study.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-22T05:49:45.891Z"
@@ -225,9 +211,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Prac_Class.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_Class.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_Class.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_Class.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_Class.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_Class.cs",
               "RelativeToolTip": "Practice\\Prac_Class.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAqwCMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,9 +223,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Function.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Function.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Function.cs",
               "RelativeDocumentMoniker": "Practice\\Function.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Function.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Function.cs",
               "RelativeToolTip": "Practice\\Function.cs",
               "ViewState": "AQIAAGwAAAAAAAAAAAAAAHEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,9 +266,9 @@
               "DocumentIndex": 39,
               "Title": "SceneShop.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\SceneShop.cs",
-              "RelativeDocumentMoniker": "textRPG\\Scene\\SceneShop.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Scene\\SceneShop.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Scene\\SceneShop.cs",
-              "RelativeToolTip": "textRPG\\Scene\\SceneShop.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Scene\\SceneShop.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwEQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T06:17:10.794Z"
@@ -292,9 +278,9 @@
               "DocumentIndex": 40,
               "Title": "SceneLobby.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\SceneLobby.cs",
-              "RelativeDocumentMoniker": "textRPG\\Scene\\SceneLobby.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Scene\\SceneLobby.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Scene\\SceneLobby.cs",
-              "RelativeToolTip": "textRPG\\Scene\\SceneLobby.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Scene\\SceneLobby.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T06:25:53.868Z"
@@ -304,9 +290,9 @@
               "DocumentIndex": 41,
               "Title": "MobData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\MobData.cs",
-              "RelativeDocumentMoniker": "textRPG\\Data\\MobData.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Data\\MobData.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Data\\MobData.cs",
-              "RelativeToolTip": "textRPG\\Data\\MobData.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Data\\MobData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T11:28:44.725Z"
@@ -315,9 +301,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Prac_Selection.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_Selection.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_Selection.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_Selection.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_Selection.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_Selection.cs",
               "RelativeToolTip": "Practice\\Prac_Selection.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAwCUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,9 +314,9 @@
               "DocumentIndex": 42,
               "Title": "ItemData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\ItemData.cs",
-              "RelativeDocumentMoniker": "textRPG\\Data\\ItemData.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Data\\ItemData.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Data\\ItemData.cs",
-              "RelativeToolTip": "textRPG\\Data\\ItemData.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Data\\ItemData.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAcwAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:49:19.452Z"
@@ -340,9 +326,9 @@
               "DocumentIndex": 43,
               "Title": "Battle.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Battle.cs",
-              "RelativeDocumentMoniker": "textRPG\\Battle.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Battle.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Battle.cs",
-              "RelativeToolTip": "textRPG\\Battle.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Battle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T06:11:33.586Z"
@@ -352,9 +338,9 @@
               "DocumentIndex": 44,
               "Title": "ScenePlayerInfo.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\ScenePlayerInfo.cs",
-              "RelativeDocumentMoniker": "textRPG\\Scene\\ScenePlayerInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Scene\\ScenePlayerInfo.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Scene\\ScenePlayerInfo.cs",
-              "RelativeToolTip": "textRPG\\Scene\\ScenePlayerInfo.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Scene\\ScenePlayerInfo.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAQwEAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T06:16:49.781Z"
@@ -364,9 +350,9 @@
               "DocumentIndex": 45,
               "Title": "Main.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Main.cs",
-              "RelativeDocumentMoniker": "textRPG\\Main.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Main.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Main.cs",
-              "RelativeToolTip": "textRPG\\Main.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Main.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAowBQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T05:59:22.087Z"
@@ -376,9 +362,9 @@
               "DocumentIndex": 46,
               "Title": "FieldData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\FieldData.cs",
-              "RelativeDocumentMoniker": "textRPG\\Data\\FieldData.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Data\\FieldData.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Data\\FieldData.cs",
-              "RelativeToolTip": "textRPG\\Data\\FieldData.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Data\\FieldData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T11:21:07.402Z"
@@ -388,9 +374,9 @@
               "DocumentIndex": 47,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\PlayerData.cs",
-              "RelativeDocumentMoniker": "textRPG\\Data\\PlayerData.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Data\\PlayerData.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Data\\PlayerData.cs",
-              "RelativeToolTip": "textRPG\\Data\\PlayerData.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Data\\PlayerData.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAmwCsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T14:19:18.947Z"
@@ -399,9 +385,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Enum.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Enum.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Lecture\\Enum.cs",
               "RelativeDocumentMoniker": "Lecture\\Enum.cs",
-              "ToolTip": "D:\\CsStd\\study\\Lecture\\Enum.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Lecture\\Enum.cs",
               "RelativeToolTip": "Lecture\\Enum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,9 +398,9 @@
               "DocumentIndex": 48,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Data\\Inventory.cs",
-              "RelativeDocumentMoniker": "textRPG\\Data\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Data\\Inventory.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Data\\Inventory.cs",
-              "RelativeToolTip": "textRPG\\Data\\Inventory.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Data\\Inventory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T14:20:37.447Z"
@@ -424,9 +410,9 @@
               "DocumentIndex": 49,
               "Title": "GameObject.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\GameObject.cs",
-              "RelativeDocumentMoniker": "textRPG\\GameObject.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\GameObject.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\GameObject.cs",
-              "RelativeToolTip": "textRPG\\GameObject.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\GameObject.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T06:45:34.568Z"
@@ -436,9 +422,9 @@
               "DocumentIndex": 50,
               "Title": "SceneField.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\Scene\\SceneField.cs",
-              "RelativeDocumentMoniker": "textRPG\\Scene\\SceneField.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\Scene\\SceneField.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\Scene\\SceneField.cs",
-              "RelativeToolTip": "textRPG\\Scene\\SceneField.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\Scene\\SceneField.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T06:21:44.778Z"
@@ -447,9 +433,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Structure.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Structure.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Lecture\\Structure.cs",
               "RelativeDocumentMoniker": "Lecture\\Structure.cs",
-              "ToolTip": "D:\\CsStd\\study\\Lecture\\Structure.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Lecture\\Structure.cs",
               "RelativeToolTip": "Lecture\\Structure.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,9 +496,9 @@
               "DocumentIndex": 38,
               "Title": "MobData.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\textRPG\\MobData.cs",
-              "RelativeDocumentMoniker": "textRPG\\MobData.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\textRPG\\MobData.cs",
               "ToolTip": "D:\\CsStd\\study\\textRPG\\MobData.cs",
-              "RelativeToolTip": "textRPG\\MobData.cs",
+              "RelativeToolTip": "..\\..\\study\\textRPG\\MobData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T07:39:24.193Z"
@@ -521,9 +507,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "iteration.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\iteration.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Lecture\\iteration.cs",
               "RelativeDocumentMoniker": "Lecture\\iteration.cs",
-              "ToolTip": "D:\\CsStd\\study\\Lecture\\iteration.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Lecture\\iteration.cs",
               "RelativeToolTip": "Lecture\\iteration.cs",
               "ViewState": "AQIAAOEAAAAAAAAAAAAAAK0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -533,9 +519,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Array.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Array.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Lecture\\Array.cs",
               "RelativeDocumentMoniker": "Lecture\\Array.cs",
-              "ToolTip": "D:\\CsStd\\study\\Lecture\\Array.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Lecture\\Array.cs",
               "RelativeToolTip": "Lecture\\Array.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -545,9 +531,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Prac_structure.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_structure.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_structure.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_structure.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_structure.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_structure.cs",
               "RelativeToolTip": "Practice\\Prac_structure.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAAHIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -617,9 +603,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Prac_switch.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_switch.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_switch.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_switch.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_switch.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_switch.cs",
               "RelativeToolTip": "Practice\\Prac_switch.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -659,9 +645,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Selection.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Selection.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Lecture\\Selection.cs",
               "RelativeDocumentMoniker": "Lecture\\Selection.cs",
-              "ToolTip": "D:\\CsStd\\study\\Lecture\\Selection.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Lecture\\Selection.cs",
               "RelativeToolTip": "Lecture\\Selection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -671,9 +657,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Function.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Function.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Lecture\\Function.cs",
               "RelativeDocumentMoniker": "Lecture\\Function.cs",
-              "ToolTip": "D:\\CsStd\\study\\Lecture\\Function.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Lecture\\Function.cs",
               "RelativeToolTip": "Lecture\\Function.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAQwH0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -683,9 +669,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Operator.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Lecture\\Operator.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Lecture\\Operator.cs",
               "RelativeDocumentMoniker": "Lecture\\Operator.cs",
-              "ToolTip": "D:\\CsStd\\study\\Lecture\\Operator.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Lecture\\Operator.cs",
               "RelativeToolTip": "Lecture\\Operator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -695,9 +681,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Prac_enum.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_enum.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_enum.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_enum.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_enum.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_enum.cs",
               "RelativeToolTip": "Practice\\Prac_enum.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAgwFAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -707,9 +693,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Prac_array.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_array.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_array.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_array.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_array.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_array.cs",
               "RelativeToolTip": "Practice\\Prac_array.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -720,9 +706,9 @@
               "DocumentIndex": 37,
               "Title": "Prac_enum.cs",
               "DocumentMoniker": "D:\\CsStd\\study\\Prac_enum.cs",
-              "RelativeDocumentMoniker": "Prac_enum.cs",
+              "RelativeDocumentMoniker": "..\\..\\study\\Prac_enum.cs",
               "ToolTip": "D:\\CsStd\\study\\Prac_enum.cs",
-              "RelativeToolTip": "Prac_enum.cs",
+              "RelativeToolTip": "..\\..\\study\\Prac_enum.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAwwCsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T11:17:39.964Z"
@@ -731,9 +717,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Prac_baseball.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_baseball.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_baseball.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_baseball.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_baseball.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_baseball.cs",
               "RelativeToolTip": "Practice\\Prac_baseball.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -743,9 +729,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Prac_Operator.cs",
-              "DocumentMoniker": "D:\\CsStd\\study\\Practice\\Prac_Operator.cs",
+              "DocumentMoniker": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_Operator.cs",
               "RelativeDocumentMoniker": "Practice\\Prac_Operator.cs",
-              "ToolTip": "D:\\CsStd\\study\\Practice\\Prac_Operator.cs",
+              "ToolTip": "D:\\CsStd\\studyBygit\\study\\Practice\\Prac_Operator.cs",
               "RelativeToolTip": "Practice\\Prac_Operator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
