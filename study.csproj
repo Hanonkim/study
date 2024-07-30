@@ -20,44 +20,96 @@
   <ItemGroup>
     <Compile Remove="hellowWorld.cs" />
     <Compile Remove="Lecture\Array.cs" />
+    <Compile Remove="Lecture\Callback.cs" />
+    <Compile Remove="Lecture\DataStructure.cs" />
+    <Compile Remove="Lecture\Delegate.cs" />
+    <Compile Remove="Lecture\Encapsulation.cs" />
     <Compile Remove="Lecture\Enum.cs" />
+    <Compile Remove="Lecture\Event.cs" />
+    <Compile Remove="Lecture\ExtensionMethod.cs" />
     <Compile Remove="Lecture\Function.cs" />
+    <Compile Remove="Lecture\Generic.cs" />
+    <Compile Remove="Lecture\Inheritance.cs" />
+    <Compile Remove="Lecture\Interface.cs" />
     <Compile Remove="Lecture\iteration.cs" />
+    <Compile Remove="Lecture\OperationOverload.cs" />
     <Compile Remove="Lecture\Operator.cs" />
+    <Compile Remove="Lecture\Polymorphism.cs" />
+    <Compile Remove="Lecture\Property.cs" />
     <Compile Remove="Lecture\Selection.cs" />
+    <Compile Remove="Lecture\Specifier.cs" />
+    <Compile Remove="Lecture\StringBuilder.cs" />
     <Compile Remove="Lecture\Structure.cs" />
     <Compile Remove="Operator.cs" />
     <Compile Remove="Practice\Function.cs" />
+    <Compile Remove="Practice\Pract_delegate.cs" />
+    <Compile Remove="Practice\Prac_abstract.cs" />
     <Compile Remove="Practice\Prac_array.cs" />
     <Compile Remove="Practice\Prac_baseball.cs" />
     <Compile Remove="Practice\Prac_Class.cs" />
+    <Compile Remove="Practice\Prac_class2.cs" />
+    <Compile Remove="Practice\Prac_Constructor.cs" />
     <Compile Remove="Practice\Prac_enum.cs" />
+    <Compile Remove="Practice\Prac_ExtensionMethod.cs" />
+    <Compile Remove="Practice\Prac_Josephus.cs" />
+    <Compile Remove="Practice\Prac_List.cs" />
+    <Compile Remove="Practice\Prac_ListInventory.cs" />
     <Compile Remove="Practice\Prac_Operator.cs" />
     <Compile Remove="Practice\Prac_Selection.cs" />
     <Compile Remove="Practice\Prac_structure.cs" />
     <Compile Remove="Practice\Prac_switch.cs" />
     <Compile Remove="Prac_enum.cs" />
+    <Compile Remove="Projects\Calc\ClacMain.cs" />
     <Compile Remove="variable.cs" />
     <Compile Remove="World.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Lecture\Array.cs" />
+    <None Include="Lecture\Callback.cs" />
+    <None Include="Lecture\DataStructure.cs" />
+    <None Include="Lecture\Delegate.cs" />
+    <None Include="Lecture\Encapsulation.cs" />
     <None Include="Lecture\Enum.cs" />
+    <None Include="Lecture\Event.cs" />
+    <None Include="Lecture\ExtensionMethod.cs" />
     <None Include="Lecture\Function.cs" />
+    <None Include="Lecture\Generic.cs" />
+    <None Include="Lecture\Inheritance.cs" />
+    <None Include="Lecture\Interface.cs" />
     <None Include="Lecture\iteration.cs" />
     <None Include="Lecture\Operator.cs" />
+    <None Include="Lecture\Polymorphism.cs" />
     <None Include="Lecture\Selection.cs" />
+    <None Include="Lecture\Specifier.cs" />
+    <None Include="Lecture\StringBuilder.cs" />
     <None Include="Lecture\Structure.cs" />
     <None Include="Practice\Function.cs" />
+    <None Include="Practice\Pract_delegate.cs" />
+    <None Include="Practice\Prac_abstract.cs" />
     <None Include="Practice\Prac_array.cs" />
     <None Include="Practice\Prac_baseball.cs" />
     <None Include="Practice\Prac_Class.cs" />
+    <None Include="Practice\Prac_class2.cs" />
+    <None Include="Practice\Prac_Constructor.cs" />
     <None Include="Practice\Prac_enum.cs" />
+    <None Include="Practice\Prac_ExtensionMethod.cs" />
+    <None Include="Practice\Prac_Josephus.cs" />
+    <None Include="Practice\Prac_List.cs" />
+    <None Include="Practice\Prac_ListInventory.cs" />
     <None Include="Practice\Prac_Operator.cs" />
     <None Include="Practice\Prac_Selection.cs" />
     <None Include="Practice\Prac_structure.cs" />
     <None Include="Practice\Prac_switch.cs" />
+    <None Include="Projects\Calc\ClacMain.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Lecture\Property.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Lecture\OperationOverload.cs" />
   </ItemGroup>
 
 </Project>

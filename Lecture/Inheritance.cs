@@ -56,7 +56,7 @@ namespace ConsoleApp1
 
 
             PlayerCharacter mob3 = new PlayerCharacter();
-            Character mob4 = new PlayerCharacter();
+            Character mob4 = new PlayerCharacter(); //upcasting 발생
             
 
             hero.GivePower(mob1, 1);
